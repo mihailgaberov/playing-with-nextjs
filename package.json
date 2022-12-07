@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/mihailgaberov/playing-with-nextjs#readme",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "isomorphic-unfetch": "^2.0.0",
     "next": "^12.1.0",
     "npm": "^6.14.6",
