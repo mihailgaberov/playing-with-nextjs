@@ -23,7 +23,7 @@
     "express": "^4.17.3",
     "isomorphic-unfetch": "^2.0.0",
     "next": "^12.1.0",
-    "npm": "^9.2.0",
+    "npm": "^9.7.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.1"
   }
